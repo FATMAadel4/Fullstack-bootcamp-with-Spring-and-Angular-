@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-support-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-instrument-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jms-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jcl-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-beans-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-orm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-r2dbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-expression-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jdbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jdbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jms-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-webmvc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-tx-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-test-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-web-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-oxm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-core-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-tx-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-oxm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-messaging-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-orm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-aspects-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-web-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-beans-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-instrument-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-websocket-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-messaging-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-oxm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-expression-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-beans-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-aspects-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-tx-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jms-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-webmvc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-test-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-instrument-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-messaging-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-expression-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-core-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-aop-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-aop-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-r2dbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-test-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-indexer-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-orm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-webflux-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jcl-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-webflux-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jcl-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-r2dbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-support-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-webflux-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-jdbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-core-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-websocket-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-aspects-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-webmvc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-web-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-indexer-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-websocket-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-aop-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-support-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 4 - task/session4_tasks/libs/spring-context-indexer-5.3.9-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

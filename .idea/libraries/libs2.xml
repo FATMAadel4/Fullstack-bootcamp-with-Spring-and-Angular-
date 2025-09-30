@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-messaging-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-web-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-webmvc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-instrument-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-messaging-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-tx-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-support-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jms-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-oxm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-aspects-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-orm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-webmvc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-websocket-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-instrument-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-core-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jcl-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jdbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jms-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jcl-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-support-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-core-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jdbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-support-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-expression-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-orm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-indexer-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-tx-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-expression-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jdbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-aop-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-oxm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-messaging-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-web-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-websocket-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-beans-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-indexer-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-beans-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-webflux-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-test-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-tx-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-test-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-websocket-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-r2dbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-instrument-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-expression-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-oxm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-webmvc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jms-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-aspects-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-web-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-orm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-webflux-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-beans-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-core-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-aop-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-jcl-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-aspects-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-test-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-r2dbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-webflux-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-context-indexer-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-aop-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Session 3 - task/DependencyinjectionTasks/libs/spring-r2dbc-5.3.9-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
