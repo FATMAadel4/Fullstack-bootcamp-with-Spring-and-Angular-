@@ -7,17 +7,18 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
+    <context:property-placeholder location="classpath:application.properties"/>
 
     <!-- Define your beans here -->
 
-    <bean id="circle"
-          class="com.ioc.examples.Circle">
-        <property name="radius" value="3"/>
+    <bean id="circle" class="com.ioc.examples.Circle">
+        <property name="radius" value="${circle.radius}"/>
     </bean>
 
-    <bean id="rectangle"
-          class="com.ioc.examples.Rectangle">
-        <property name="side" value="3"/>
+    <!-- Rectangle bean -->
+    <bean id="rectangle" class="com.ioc.examples.Rectangle">
+        <property name="width" value="${rectangle.width}"/>
+        <property name="height" value="${rectangle.height}"/>
     </bean>
 
 </beans>
