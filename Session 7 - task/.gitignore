@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/task1/libs/
+/task2/libs/
