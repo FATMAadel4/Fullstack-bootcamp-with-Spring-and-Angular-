@@ -42,15 +42,6 @@ public class HomeController {
         }
 
 
-        String firstName = request.getParameter("firstName");
-        String lastName = request.getParameter("lastName");
-        String email= request.getParameter("email");
-        String dateOfBirth= request.getParameter("dateOfBirth");
-        String city= request.getParameter("city");
-
-
-
-
         return "resultPage";
     }
 }
