@@ -1,8 +1,12 @@
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class UpdateFromDB {
+    private static final Logger logger = LoggerFactory.getLogger(CreateFromDB.class);
+
     public static void main(String[] args) {
 
         try (SessionFactory sessionFactory = new Configuration()
@@ -19,9 +23,9 @@ public class UpdateFromDB {
             if (student != null) {
                 student.setLast_name("Mohamed");
                 session.getTransaction().commit();
-                System.out.println(" Student updated successfully!");
-            } else {
-                System.out.println(" No student found with ID = " + studentId);
+                logger.info(" Student updated successfully!");
+            }  else {
+                logger.warn("No student found with ID = {}", studentId);
             }
 
         } catch (Exception e) {
