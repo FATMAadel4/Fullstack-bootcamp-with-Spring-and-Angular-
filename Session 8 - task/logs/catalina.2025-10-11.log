@@ -1,0 +1,80 @@
+11-Oct-2025 21:12:19.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+11-Oct-2025 21:12:19.342 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+11-Oct-2025 21:12:19.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+11-Oct-2025 21:12:19.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-Oct-2025 21:12:19.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Oct-2025 21:12:19.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Oct-2025 21:12:19.343 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+11-Oct-2025 21:12:19.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.12+8-LTS-286
+11-Oct-2025 21:12:19.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Oct-2025 21:12:19.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\NanoChip\IdeaProjects\Session 8 - task
+11-Oct-2025 21:12:19.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         F:\MyDownloas\apache-tomcat-9.0.109
+11-Oct-2025 21:12:19.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Oct-2025 21:12:19.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Oct-2025 21:12:19.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Oct-2025 21:12:19.359 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Oct-2025 21:12:19.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Oct-2025 21:12:19.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=F:\MyDownloas\apache-tomcat-9.0.109
+11-Oct-2025 21:12:19.360 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\NanoChip\IdeaProjects\Session 8 - task
+11-Oct-2025 21:12:19.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\NanoChip\IdeaProjects\Session 8 - task\temp
+11-Oct-2025 21:12:19.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\NanoChip\IdeaProjects\Session 8 - task\conf\logging.properties
+11-Oct-2025 21:12:19.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Oct-2025 21:12:19.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\lib\idea_rt.jar=57409:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\bin
+11-Oct-2025 21:12:19.361 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+11-Oct-2025 21:12:19.393 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;;.]
+11-Oct-2025 21:12:20.083 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:12:20.138 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1279] milliseconds
+11-Oct-2025 21:12:20.243 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Oct-2025 21:12:20.244 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+11-Oct-2025 21:12:20.266 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\NanoChip\IdeaProjects\Session 8 - task\conf\Catalina\localhost\Session 8 - task.xml]
+11-Oct-2025 21:12:25.202 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Oct-2025 21:12:25.766 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+11-Oct-2025 21:12:28.662 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 2896 ms
+11-Oct-2025 21:12:28.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\NanoChip\IdeaProjects\Session 8 - task\conf\Catalina\localhost\Session 8 - task.xml] has finished in [8,526] ms
+11-Oct-2025 21:12:28.799 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:12:28.886 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8746] milliseconds
+11-Oct-2025 21:13:36.534 WARNING [http-nio-8080-exec-8] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for POST /Session%208%20-%20task/processForm
+11-Oct-2025 21:13:38.392 WARNING [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet.noHandlerFound No mapping for POST /Session%208%20-%20task/processForm
+11-Oct-2025 21:18:08.234 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:18:08.364 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Oct-2025 21:18:08.733 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:18:08.788 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:18:49.126 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+11-Oct-2025 21:18:49.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+11-Oct-2025 21:18:49.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+11-Oct-2025 21:18:49.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+11-Oct-2025 21:18:49.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+11-Oct-2025 21:18:49.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Oct-2025 21:18:49.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+11-Oct-2025 21:18:49.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.12+8-LTS-286
+11-Oct-2025 21:18:49.135 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Oct-2025 21:18:49.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\NanoChip\IdeaProjects\Session 8 - task
+11-Oct-2025 21:18:49.136 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         F:\MyDownloas\apache-tomcat-9.0.109
+11-Oct-2025 21:18:49.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+11-Oct-2025 21:18:49.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+11-Oct-2025 21:18:49.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+11-Oct-2025 21:18:49.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+11-Oct-2025 21:18:49.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+11-Oct-2025 21:18:49.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=F:\MyDownloas\apache-tomcat-9.0.109
+11-Oct-2025 21:18:49.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\NanoChip\IdeaProjects\Session 8 - task
+11-Oct-2025 21:18:49.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\NanoChip\IdeaProjects\Session 8 - task\temp
+11-Oct-2025 21:18:49.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\NanoChip\IdeaProjects\Session 8 - task\conf\logging.properties
+11-Oct-2025 21:18:49.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Oct-2025 21:18:49.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\lib\idea_rt.jar=57660:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\bin
+11-Oct-2025 21:18:49.154 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+11-Oct-2025 21:18:49.176 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-21\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;;.]
+11-Oct-2025 21:18:50.489 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:18:50.779 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2661] milliseconds
+11-Oct-2025 21:18:50.862 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+11-Oct-2025 21:18:50.863 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+11-Oct-2025 21:18:50.875 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\NanoChip\IdeaProjects\Session 8 - task\conf\Catalina\localhost\Session 8 - task.xml]
+11-Oct-2025 21:18:57.660 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Oct-2025 21:18:58.330 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+11-Oct-2025 21:19:01.189 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 2859 ms
+11-Oct-2025 21:19:01.216 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\NanoChip\IdeaProjects\Session 8 - task\conf\Catalina\localhost\Session 8 - task.xml] has finished in [10,341] ms
+11-Oct-2025 21:19:01.223 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:19:01.284 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [10504] milliseconds
+11-Oct-2025 21:20:24.753 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:20:24.882 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+11-Oct-2025 21:20:24.952 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+11-Oct-2025 21:20:24.958 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
