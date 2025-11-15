@@ -27,10 +27,20 @@ public class HomeController {
     @GetMapping("/addProductForm")
     public String showAddForm(Model model) {
         Product product = new Product();
-        product.setProductDetails(new ProductDetails()); // اربطي التفاصيل بالمنتج
+        ProductDetails details = new ProductDetails();
+
+        // تهيئة قيم افتراضية لتجنب null
+        details.setAvailable(false);
+        details.setPrice(1);
+        details.setManufacturer("");
+        details.setName("");
+        details.setExpirationDate(new Date());
+
+        product.setProductDetails(details);
         model.addAttribute("product", product);
         return "addProductForm";
     }
+
 
     @PostMapping("/saveProduct")
     public String saveProduct(@ModelAttribute("product") Product product  ) {
