@@ -40,7 +40,7 @@ public class ProductDAOImpl implements ProductDAO {
 
     @Override
     public void update(Product product) {
-        getCurrentSession().merge(product);
+        getCurrentSession(). saveOrUpdate(product);
     }
 
     @Override
