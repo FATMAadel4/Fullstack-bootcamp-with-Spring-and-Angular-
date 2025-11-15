@@ -14,8 +14,7 @@ import java.util.Date;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Setter
-@Getter
+
 public class ProductDetails {
 
     @Id
@@ -42,7 +41,7 @@ public class ProductDetails {
 
     @Positive(message = "Price must be greater than 0")
     @Column(name = "price", nullable = false)
-    private double price;
+    private Double price;
 
     @Column(name = "available", nullable = false)
     private boolean available;

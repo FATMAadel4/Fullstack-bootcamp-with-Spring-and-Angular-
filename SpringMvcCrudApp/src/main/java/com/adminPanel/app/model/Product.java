@@ -9,8 +9,7 @@ import javax.persistence.*;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Setter
-@Getter
+
 public class Product {
 
 

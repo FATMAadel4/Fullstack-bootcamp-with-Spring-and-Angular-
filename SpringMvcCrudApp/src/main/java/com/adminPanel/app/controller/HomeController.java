@@ -17,7 +17,7 @@ public class HomeController {
     private ProductService productService;
 
     // عرض الصفحة الرئيسية
-    @GetMapping("/")
+    @GetMapping
     public String homePage(Model model) {
         model.addAttribute("products", productService.getAllProducts());
         return "homePage"; // JSP → /WEB-INF/view/homePage.jsp
@@ -31,7 +31,7 @@ public class HomeController {
 
         // تهيئة قيم افتراضية لتجنب null
         details.setAvailable(false);
-        details.setPrice(1);
+        details.setPrice(null);
         details.setManufacturer("");
         details.setName("");
         details.setExpirationDate(new Date());
@@ -43,12 +43,12 @@ public class HomeController {
 
 
     @PostMapping("/saveProduct")
-    public String saveProduct(@ModelAttribute("product") Product product  ) {
+    public String saveProduct(@Valid @ModelAttribute("product") Product product  ) {
 
+        if (product.getProductDetails() == null) {
+            product.setProductDetails(new ProductDetails());        // اربطي الاتجاهين
 
-        // اربطي الاتجاهين
-        product.getProductDetails().setProduct(product);
-
+        }
         // خلي الاسم في التفاصيل نفس اسم المنتج الرئيسي
         product.getProductDetails().setName(product.getName());
 
@@ -57,17 +57,15 @@ public class HomeController {
     }
 
 
-
-
     // عرض تفاصيل منتج معين
     @GetMapping("/showProductDetails")
-    public String showProductDetails(@RequestParam("id") int id, Model model) {
+    public String showProductDetails(@Valid @RequestParam("id") int id, Model model) {
         Product product = productService.getProductById(id);
         model.addAttribute("product", product);
         return "viewDetailsPage"; // JSP → /WEB-INF/view/viewProductDetails.jsp
     }
     @GetMapping("/showUpdateForm")
-    public String showUpdateForm(@RequestParam("id") int id, Model model) {
+    public String showUpdateForm(@Valid @RequestParam("id") int id, Model model) {
         Product product = productService.getProductById(id);
 
          if (product.getProductDetails() == null) {
@@ -80,8 +78,10 @@ public class HomeController {
 
     @PostMapping("/updateProduct")
     public String updateProduct(@ModelAttribute("product") Product product) {
+        if (product.getProductDetails() == null) {
+            product.setProductDetails(new ProductDetails());        // اربطي الاتجاهين
 
-        product.getProductDetails().setProduct(product);
+        }
         product.getProductDetails().setName(product.getName());
 
         productService.updateProduct(product);
