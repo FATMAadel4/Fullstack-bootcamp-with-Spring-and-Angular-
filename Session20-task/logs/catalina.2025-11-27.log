@@ -1,0 +1,67 @@
+27-Nov-2025 14:28:55.964 WARNING [C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-AdminTaskTimer] com.mchange.v2.async.ThreadPoolAsynchronousRunner$DeadlockDetector.run com.mchange.v2.async.ThreadPoolAsynchronousRunner$DeadlockDetector@55556538 -- APPARENT DEADLOCK!!! Creating emergency threads for unassigned pending tasks!
+27-Nov-2025 14:35:31.890 WARNING [C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-AdminTaskTimer] com.mchange.v2.async.ThreadPoolAsynchronousRunner$DeadlockDetector.run com.mchange.v2.async.ThreadPoolAsynchronousRunner$DeadlockDetector@55556538 -- APPARENT DEADLOCK!!! Complete Status: 
+	Managed Threads: 3
+	Active Threads: 3
+	Active Tasks: 
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@218d4153
+			on thread: C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-HelperThread-#0
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@5f8f9cff
+			on thread: C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-HelperThread-#2
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@70780eb9
+			on thread: C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-HelperThread-#1
+	Pending Tasks: 
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@2c0c8aee
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@67c0d1e5
+Pool thread stack traces:
+	Thread[C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-HelperThread-#0,5,main]
+		java.security.AccessController.doPrivileged(Native Method)
+		java.net.URLClassLoader.findResource(URLClassLoader.java:574)
+		java.lang.ClassLoader.getResource(ClassLoader.java:1089)
+		org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1247)
+		org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1163)
+		com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+		com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:446)
+		com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:239)
+		com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:188)
+		com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+		com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+		com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+		com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+		com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+		com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+		com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+		com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+	Thread[C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-HelperThread-#2,5,main]
+		com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+		com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:446)
+		com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:239)
+		com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:188)
+		com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+		com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+		com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+		com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+		com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+		com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+		com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+		com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+	Thread[C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-HelperThread-#1,5,main]
+		com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:825)
+		com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:446)
+		com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:239)
+		com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:188)
+		com.mchange.v2.c3p0.DriverManagerDataSource.getConnection(DriverManagerDataSource.java:146)
+		com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:195)
+		com.mchange.v2.c3p0.WrapperConnectionPoolDataSource.getPooledConnection(WrapperConnectionPoolDataSource.java:184)
+		com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.acquireResource(C3P0PooledConnectionPool.java:200)
+		com.mchange.v2.resourcepool.BasicResourcePool.doAcquire(BasicResourcePool.java:1086)
+		com.mchange.v2.resourcepool.BasicResourcePool.doAcquireAndDecrementPendingAcquiresWithinLockOnSuccess(BasicResourcePool.java:1073)
+		com.mchange.v2.resourcepool.BasicResourcePool.access$800(BasicResourcePool.java:44)
+		com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask.run(BasicResourcePool.java:1810)
+		com.mchange.v2.async.ThreadPoolAsynchronousRunner$PoolThread.run(ThreadPoolAsynchronousRunner.java:648)
+
+
+27-Nov-2025 14:37:02.043 WARNING [C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-AdminTaskTimer] com.mchange.v2.async.ThreadPoolAsynchronousRunner.processReplacedThreads Task com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@218d4153 (in deadlocked PoolThread) failed to complete in maximum time 60000ms. Trying interrupt().
+27-Nov-2025 14:37:02.106 WARNING [C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-AdminTaskTimer] com.mchange.v2.async.ThreadPoolAsynchronousRunner.processReplacedThreads Task com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@5f8f9cff (in deadlocked PoolThread) failed to complete in maximum time 60000ms. Trying interrupt().
+27-Nov-2025 14:37:02.107 WARNING [C3P0PooledConnectionPoolManager[identityToken->1bqwpohbe1gezz6d69xx0y|2670435]-AdminTaskTimer] com.mchange.v2.async.ThreadPoolAsynchronousRunner.processReplacedThreads Task com.mchange.v2.resourcepool.BasicResourcePool$ScatteredAcquireTask@70780eb9 (in deadlocked PoolThread) failed to complete in maximum time 60000ms. Trying interrupt().
