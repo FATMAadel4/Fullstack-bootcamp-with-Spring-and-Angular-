@@ -26,9 +26,6 @@ public class ProductDetails {
     @JoinColumn(name = "product_id", nullable = false)
     private Product product;
 
-    @NotBlank(message = "Product name is required")
-    @Column(name = "name", nullable = false)
-    private String name;
 
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     @NotNull(message = "Expiration date is required")

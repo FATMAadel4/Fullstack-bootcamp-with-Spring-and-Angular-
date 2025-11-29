@@ -38,10 +38,6 @@ public class ProductDAOImpl implements ProductDAO {
         return getCurrentSession().get(Product.class, id);
     }
 
-    @Override
-    public void update(Product product) {
-        getCurrentSession(). saveOrUpdate(product);
-    }
 
     @Override
     public void deleteById(int id) {
