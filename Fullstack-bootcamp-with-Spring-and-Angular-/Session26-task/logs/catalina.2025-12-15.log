@@ -1,0 +1,464 @@
+15-Dec-2025 22:03:30.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:03:30.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:03:30.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:03:30.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:03:30.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:03:30.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:03:30.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:03:30.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:03:30.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:03:30.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:03:30.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:03:30.251 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:03:30.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:03:30.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:03:30.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:03:30.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:03:30.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:03:30.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:03:30.254 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:03:30.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:03:30.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:03:30.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58368
+15-Dec-2025 22:03:30.255 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:03:30.258 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:03:30.259 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:03:30.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:03:30.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:03:30.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:03:30.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:03:30.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:03:30.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:03:30.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:03:30.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:03:30.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:03:30.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58367
+15-Dec-2025 22:03:30.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:03:30.385 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:03:30.389 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:03:31.887 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:03:31.887 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:03:31.975 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3537] milliseconds
+15-Dec-2025 22:03:31.989 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8080"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1072)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:522)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:986)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:122)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:690)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:713)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:475)
+	Caused by: java.net.BindException: Address already in use: bind
+		at sun.nio.ch.Net.bind0(Native Method)
+		at sun.nio.ch.Net.bind(Net.java:461)
+		at sun.nio.ch.Net.bind(Net.java:453)
+		at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:222)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:298)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:253)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1467)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1480)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:663)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:80)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1070)
+		... 13 more
+15-Dec-2025 22:03:31.991 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3554] milliseconds
+15-Dec-2025 22:03:32.183 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:03:32.184 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:03:32.185 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:03:32.186 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:03:32.237 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:03:32.245 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:03:32.881 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:03:32.887 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:03:46.113 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:03:46.142 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:03:47.396 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [533] milliseconds.
+15-Dec-2025 22:03:47.430 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [574] milliseconds.
+15-Dec-2025 22:03:50.332 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 22:03:50.338 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 22:03:50.523 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 22:03:50.523 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 22:03:50.941 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [18,696] ms
+15-Dec-2025 22:03:50.950 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [18958] milliseconds
+15-Dec-2025 22:03:50.956 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [18,719] ms
+15-Dec-2025 22:03:50.963 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:03:51.069 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [19093] milliseconds
+15-Dec-2025 22:03:51.071 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: JVM_Bind
+		at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+		at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+		at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+		at java.net.ServerSocket.bind(ServerSocket.java:390)
+		at java.net.ServerSocket.<init>(ServerSocket.java:252)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:537)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:829)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:777)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.lang.reflect.Method.invoke(Method.java:498)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+15-Dec-2025 22:03:51.071 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:03:51.760 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 22:03:51.776 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:03:51.789 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:07:32.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:07:32.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:07:32.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:07:32.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:07:32.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:07:32.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:07:32.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:07:32.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:07:32.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:07:32.658 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:07:32.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:07:32.659 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:07:32.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:07:32.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:07:32.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:07:32.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:07:32.660 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58472
+15-Dec-2025 22:07:32.661 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:07:32.684 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:07:33.349 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:07:33.401 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1187] milliseconds
+15-Dec-2025 22:07:33.491 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:07:33.491 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:07:33.526 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:07:33.661 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:07:39.617 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:07:40.601 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [516] milliseconds.
+15-Dec-2025 22:07:42.915 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 22:07:43.084 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 22:07:43.307 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [9,781] ms
+15-Dec-2025 22:07:43.314 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:07:43.347 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9945] milliseconds
+15-Dec-2025 22:11:12.812 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:11:13.548 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 22:11:13.626 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:11:13.645 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:11:34.233 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:11:34.241 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:11:34.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:11:34.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:11:34.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:11:34.242 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:11:34.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:11:34.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:11:34.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:11:34.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:11:34.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:11:34.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:11:34.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:11:34.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:11:34.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:11:34.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:11:34.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58569
+15-Dec-2025 22:11:34.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:11:34.274 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:11:34.914 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:11:34.951 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1239] milliseconds
+15-Dec-2025 22:11:35.022 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:11:35.023 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:11:35.039 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:11:35.195 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:11:41.405 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:11:42.444 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [626] milliseconds.
+15-Dec-2025 22:11:44.924 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 22:11:45.030 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 22:11:45.277 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [10,238] ms
+15-Dec-2025 22:11:45.284 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:11:45.315 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [10364] milliseconds
+15-Dec-2025 22:16:22.786 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:16:23.442 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 22:16:23.509 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:16:23.531 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:16:41.898 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:16:41.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:16:41.909 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:16:41.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:16:41.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:16:41.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:16:41.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:16:41.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:16:41.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:16:41.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:16:41.911 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:16:41.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:16:41.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:16:41.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:16:41.912 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:16:41.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:16:41.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58647
+15-Dec-2025 22:16:41.913 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:16:41.942 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:16:42.670 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:16:42.711 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1333] milliseconds
+15-Dec-2025 22:16:42.796 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:16:42.796 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:16:42.813 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:16:42.913 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:16:43.322 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:16:43.876 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [497] milliseconds.
+15-Dec-2025 22:16:43.907 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [1,094] ms
+15-Dec-2025 22:16:43.914 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:16:43.951 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1239] milliseconds
+15-Dec-2025 22:22:49.940 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:22:50.622 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 22:22:50.652 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:22:50.739 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:23:28.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:23:28.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:23:28.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:23:28.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:23:28.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:23:28.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:23:28.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:23:28.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:23:28.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:23:28.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:23:28.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:23:28.987 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:23:28.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:23:28.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:23:28.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:23:28.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:23:28.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58734
+15-Dec-2025 22:23:28.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:23:29.014 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:23:30.117 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:23:30.185 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3967] milliseconds
+15-Dec-2025 22:23:30.734 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:23:30.735 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:23:30.898 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:23:31.621 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:23:34.499 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:23:35.319 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [546] milliseconds.
+15-Dec-2025 22:23:35.911 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [5,012] ms
+15-Dec-2025 22:23:35.918 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:23:36.070 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5884] milliseconds
+15-Dec-2025 22:29:22.947 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:29:23.794 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 22:29:24.462 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:29:24.536 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:30:00.737 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 22:30:00.766 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 22:30:00.767 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 22:30:00.768 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:30:00.769 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 22:30:00.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 22:30:00.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 22:30:00.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 22:30:00.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 22:30:00.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 22:30:00.777 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=58913
+15-Dec-2025 22:30:00.778 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 22:30:00.894 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 22:30:03.632 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:30:03.752 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [4644] milliseconds
+15-Dec-2025 22:30:04.651 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 22:30:04.652 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 22:30:04.994 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 22:30:06.635 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 22:30:11.039 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 22:30:13.644 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [2,203] milliseconds.
+15-Dec-2025 22:30:14.469 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [9,475] ms
+15-Dec-2025 22:30:14.478 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 22:30:15.316 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [11564] milliseconds
+15-Dec-2025 23:01:28.972 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:01:31.771 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 23:01:35.498 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:01:36.179 WARNING [Thread-2] org.apache.tomcat.util.net.Acceptor.stopMillis The acceptor thread [http-nio-8080-Acceptor] did not stop cleanly
+15-Dec-2025 23:01:36.649 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:02:15.991 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 23:02:15.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 23:02:15.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 23:02:15.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 23:02:15.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 23:02:15.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 23:02:15.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 23:02:15.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 23:02:15.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 23:02:15.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:02:15.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 23:02:15.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 23:02:15.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:02:16.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 23:02:16.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 23:02:16.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 23:02:16.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=59537
+15-Dec-2025 23:02:16.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 23:02:16.146 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 23:02:16.825 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:02:16.892 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1975] milliseconds
+15-Dec-2025 23:02:17.033 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 23:02:17.033 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 23:02:17.064 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 23:02:17.210 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 23:02:23.392 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 23:02:24.227 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [441] milliseconds.
+15-Dec-2025 23:02:26.183 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 23:02:26.318 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 23:02:26.579 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [9,515] ms
+15-Dec-2025 23:02:26.587 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:02:26.654 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9761] milliseconds
+15-Dec-2025 23:07:25.746 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:07:26.489 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 23:07:26.869 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:07:26.884 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:07:49.166 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 23:07:49.171 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 23:07:49.172 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:07:49.173 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 23:07:49.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 23:07:49.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:07:49.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 23:07:49.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 23:07:49.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 23:07:49.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=60225
+15-Dec-2025 23:07:49.177 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 23:07:49.226 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 23:07:49.943 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:07:49.977 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1264] milliseconds
+15-Dec-2025 23:07:50.041 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 23:07:50.041 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 23:07:50.058 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 23:07:50.223 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 23:07:55.876 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 23:07:56.727 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [467] milliseconds.
+15-Dec-2025 23:07:58.775 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 23:07:58.992 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 23:07:59.422 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [9,363] ms
+15-Dec-2025 23:07:59.444 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:07:59.466 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9488] milliseconds
+15-Dec-2025 23:21:12.818 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:21:13.522 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 23:21:13.641 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:21:13.665 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:21:28.601 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 23:21:28.605 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 23:21:28.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 23:21:28.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 23:21:28.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 23:21:28.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 23:21:28.606 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 23:21:28.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 23:21:28.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 23:21:28.607 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:21:28.608 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 23:21:28.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 23:21:28.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:21:28.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 23:21:28.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 23:21:28.609 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 23:21:28.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=60373
+15-Dec-2025 23:21:28.610 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 23:21:28.645 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 23:21:29.319 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:21:29.371 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1169] milliseconds
+15-Dec-2025 23:21:29.444 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 23:21:29.445 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 23:21:29.461 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 23:21:29.589 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 23:21:34.994 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 23:21:35.786 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [426] milliseconds.
+15-Dec-2025 23:21:37.524 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [8,063] ms
+15-Dec-2025 23:21:37.531 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:21:37.557 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [8186] milliseconds
+15-Dec-2025 23:26:38.597 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:26:39.253 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 23:26:39.338 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:26:39.354 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:49:47.808 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 23:49:47.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 23:49:47.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 23:49:47.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 23:49:47.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 23:49:47.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 23:49:47.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 23:49:47.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 23:49:47.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 23:49:47.815 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:49:47.816 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 23:49:47.818 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 23:49:47.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:49:47.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 23:49:47.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 23:49:47.819 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 23:49:47.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=61114
+15-Dec-2025 23:49:47.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 23:49:47.895 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 23:49:48.741 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:49:48.800 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1944] milliseconds
+15-Dec-2025 23:49:48.905 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 23:49:48.906 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 23:49:48.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 23:49:49.227 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 23:49:55.858 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 23:49:56.998 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [591] milliseconds.
+15-Dec-2025 23:49:59.796 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [10,860] ms
+15-Dec-2025 23:49:59.803 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:49:59.940 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [11138] milliseconds
+15-Dec-2025 23:52:03.762 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:52:04.400 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 23:52:04.428 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:52:04.436 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:52:23.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.109
+15-Dec-2025 23:52:23.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 1 2025 12:15:33 UTC
+15-Dec-2025 23:52:23.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.109.0
+15-Dec-2025 23:52:23.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Dec-2025 23:52:23.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2025 23:52:23.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2025 23:52:23.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\NanoChip\.jdks\corretto-1.8.0_462\jre
+15-Dec-2025 23:52:23.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_462-b08
+15-Dec-2025 23:52:23.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+15-Dec-2025 23:52:23.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:52:23.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-9.0.109
+15-Dec-2025 23:52:23.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-9.0.109
+15-Dec-2025 23:52:23.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=F:\MyDownloas\SpringSecurityApp_Demo4
+15-Dec-2025 23:52:23.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=F:\MyDownloas\SpringSecurityApp_Demo4\temp
+15-Dec-2025 23:52:23.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=F:\MyDownloas\SpringSecurityApp_Demo4\conf\logging.properties
+15-Dec-2025 23:52:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2025 23:52:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\NanoChip\AppData\Local\Programs\IntelliJ IDEA Ultimate\lib\idea_rt.jar=61164
+15-Dec-2025 23:52:23.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2025 23:52:24.010 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Users\NanoChip\.jdks\corretto-1.8.0_462\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.9.8\bin;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;c:\flutter\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\platform-tools;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Windows\System32;C:\Windows;D:\Gradle\gradle-8.0\bin;C:\MinGW\bin;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Program Files\apache-maven-3.9.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\src\flutter\bin;C:\dart\bin;C:\Users\NanoChip\AppData\Local\Android\Sdk\emulator;C:\Program Files\Git\cmd;C:\Users\NanoChip\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-17\bin;C:\Users\NanoChip\AppData\Local\Programs\Ollama;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\;C:\Users\NanoChip\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\NanoChip\AppData\Local\JetBrains\Toolbox\scripts;;.]
+15-Dec-2025 23:52:24.820 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:52:24.854 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1405] milliseconds
+15-Dec-2025 23:52:24.925 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2025 23:52:24.926 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.109]
+15-Dec-2025 23:52:24.942 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml]
+15-Dec-2025 23:52:25.054 WARNING [main] org.apache.catalina.webresources.DirResourceSet.initInternal Disabled the global canonical file name cache to protect against CVE-2024-56337 when starting the WebResourceSet at [F:\MyDownloas\SpringSecurityApp_Demo4\target\classes] which is part of the web application []
+15-Dec-2025 23:52:30.541 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Dec-2025 23:52:31.664 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [498] milliseconds.
+15-Dec-2025 23:52:34.068 INFO [MLog-Init-Reporter] com.mchange.v2.log.MLog. MLog clients using java 1.4+ standard logging.
+15-Dec-2025 23:52:34.326 INFO [main] com.mchange.v2.c3p0.C3P0Registry. Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+15-Dec-2025 23:52:34.628 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [F:\MyDownloas\SpringSecurityApp_Demo4\conf\Catalina\localhost\ROOT.xml] has finished in [9,685] ms
+15-Dec-2025 23:52:34.635 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:52:34.668 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9813] milliseconds
+15-Dec-2025 23:59:41.055 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:59:41.707 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2025 23:59:41.774 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2025 23:59:41.794 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
